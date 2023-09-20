@@ -15,5 +15,7 @@ for x in range(n):
 print()
 print('employee_name','domain','employee_id','email')
 for a1,a2,a3,a4 in zip(employee_name,domain,employee_id,email):
-    print(a1,a2,a3,a4,sep="\t\t")
+    print(a1,a2,a3,a4,sep="\t")
 print()
+
+
