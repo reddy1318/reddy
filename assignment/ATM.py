@@ -1,5 +1,5 @@
 class ATM:
-    def __init__(self):
+    def _init_(self):
         self.pin=""
         self.balance=0
         self.favourite()
